@@ -1,1 +1,1 @@
-# Abstraktno sintaktično drevo 4.1
+# Abstraktno sintaktično drevo 4.2
